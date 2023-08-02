@@ -1,0 +1,99 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 20px;
+    font-style: var(#333);
+    background-color: white;
+    margin: 0;
+}
+
+header {
+    background-color: orangered;
+    color: #fff;
+    border-radius: 16px;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+footer {
+    background-color:orangered;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    border-radius: 16px;
+    padding: 20px 0;
+}
+
+      /* Styling for buttons */
+      button {
+    background-color: maroon;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+/* Styling for download button */
+#downloadBtn {
+    background-color: blue;
+}
+
+/* Center the container */
+.container {
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 5px solid blue;
+    border-radius: 4px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative; /* Add relative positioning */
+    min-height: 100vh; /* Ensure the container has at least the height of the viewport */
+}
+
+
+table {
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+font-size: large;}
+
+th {
+    background-color: gold;
+    color: maroon;
+}
+
+td {
+    background-color: #fff;
+    color: maroon;
+}
+
+textarea, input[type="number"], input[type="date"] {
+    width: 100%;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding: 5px;
+}
+   /* Styling for payment status textarea */
+   textarea[name^="paymentStatus_"] {
+    resize: none; /* Prevent the textarea from being resizable */
+}
+
+.container {
+    background-color: #fff; /* Set the background color to white */
+    padding: 20px;
+}
