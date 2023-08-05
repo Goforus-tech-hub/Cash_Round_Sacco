@@ -6,11 +6,10 @@ const familyMembers = [
     { name: "Natasha 3", sex: "F" },
     { name: "Natasha 4", sex: "F" },
     { name: "Nankambo Ruth 1", sex: "F" },
-    { name: "Nankambo Ruth 2 2", sex: "F" },
     { name: "Nakate Rose 1", sex: "F" },
     { name: "Nakate Rose 2", sex: "F" },
     { name: "Nakate Gorret 1", sex: "M" },
-    { name: "Kasumba Muhamamed 1", sex: "F" }
+ 
 ];
 
 function toggleTable() {
