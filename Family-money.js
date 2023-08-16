@@ -9,7 +9,7 @@ const familyMembers = [
     { name: "Nakate Rose 1", sex: "F" },
     { name: "Nakate Rose 2", sex: "F" },
     { name: "Nakate Gorret 1", sex: "M" },
-    { name: "Lasumba Mohammed 1", sex: "M" },
+    { name: "kasumba M 1", sex: "M" },
  
 ];
 
