@@ -1,14 +1,15 @@
 const familyMembers = [
     { name: "Natasha 1", sex: "F" },
     { name: "Natasha 2", sex: "F" },
-    { name: "Lordzeck 1", sex: "M" },
-    { name: "Lordzeck 2", sex: "M" },
+    { name: "Mulodizeki 1", sex: "M" },
+    { name: "Mulodizeki 2", sex: "M" },
     { name: "Natasha 3", sex: "F" },
     { name: "Natasha 4", sex: "F" },
     { name: "Nankambo Ruth 1", sex: "F" },
     { name: "Nakate Rose 1", sex: "F" },
     { name: "Nakate Rose 2", sex: "F" },
     { name: "Nakate Gorret 1", sex: "M" },
+    { name: "Lasumba Mohammed 1", sex: "M" },
  
 ];
 
