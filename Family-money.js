@@ -1,17 +1,14 @@
 const familyMembers = [
-    { name: "Natasha 1", sex: "F" },
-    { name: "Natasha 2", sex: "F" },
-    { name: "Mulodizeki 1", sex: "M" },
-    { name: "Mulodizeki 2", sex: "M" },
-    { name: "Natasha 3", sex: "F" },
-    { name: "Natasha 4", sex: "F" },
-    { name: "Nankambo Ruth 1", sex: "F" },
-    { name: "Nakate Rose 1", sex: "F" },
-    { name: "Nakate Rose 2", sex: "F" },
-    { name: "Nakate Gorret 1", sex: "M" },
-    { name: "kasumba M 1", sex: "M" },
- 
-];
+    { name: "Rehemah", sex: "F" },
+    { name: "Fred", sex: "M" },
+    { name: "Alison", sex: "F" },
+    { name: "Mulodizeki", sex: "M" },
+    { name: "Mummy", sex: "F" },
+    { name: "Alison", sex: "F" },
+    { name: "Mubiru", sex: "M" },
+    { name: "Louis", sex: "F" },
+    { name: "Rehemah", sex: "F" },
+   ];
 
 function toggleTable() {
     const formContainer = document.getElementById("formContainer");
