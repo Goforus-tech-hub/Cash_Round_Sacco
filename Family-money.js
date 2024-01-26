@@ -1,13 +1,13 @@
 const familyMembers = [
     { name: "Rehemah", sex: "F" },
     { name: "Fred", sex: "M" },
-    { name: "Alison", sex: "F" },
+    { name: "Mubiru", sex: "F" },
     { name: "Mulodizeki", sex: "M" },
-    { name: "Mummy", sex: "F" },
-    { name: "Alison", sex: "F" },
-    { name: "Mubiru", sex: "M" },
-    { name: "Louis", sex: "F" },
+    { name: "Kabuye", sex: "F" },
+    { name: "Mubiru", sex: "F" },
+    { name: "Louis", sex: "M" },
     { name: "Rehemah", sex: "F" },
+    { name: "Kabuye", sex: "F" },
    ];
 
 function toggleTable() {
