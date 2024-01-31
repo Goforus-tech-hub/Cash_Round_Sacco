@@ -1,4 +1,4 @@
-'const familyMembers = [
+const familyMembers = [
     { name: "Rahumah", sex: "F" },
     { name: "Fred", sex: "M" },
     { name: "Mubiru", sex: "M" },
